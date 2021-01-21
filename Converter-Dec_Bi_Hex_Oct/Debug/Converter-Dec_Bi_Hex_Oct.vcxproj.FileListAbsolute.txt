@@ -1,0 +1,2 @@
+D:\source\C++\School Related\Dec, bi, hex, octal converter\Converter-Dec_Bi_Hex_Oct\Debug\Converter-Dec_Bi_Hex_Oct.exe
+D:\source\C++\School Related\Dec, bi, hex, octal converter\Converter-Dec_Bi_Hex_Oct\Debug\Converter-Dec_Bi_Hex_Oct.pdb
